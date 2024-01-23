@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data and Sports Analytics <br>👯 I’m looking to collaborate on anything related to data analysis and data science<br>🌱 I’m currently learning Power-BI<br>
+🔭 I’m currently working on Data Science and Sports Analytics <br>👯 I’m looking to collaborate on anything related to Data Analysis, Data Science and Sports Analytics<br>🌱 I’m currently learning Power-BI<br>
 
 
 ## 🌐 Socials:
